@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\homework\homework01\project\Mathmatics\Mathmatics\bin\Debug\Mathmatics.exe.config
+C:\Users\Administrator\Desktop\homework\homework01\project\Mathmatics\Mathmatics\bin\Debug\Mathmatics.exe
+C:\Users\Administrator\Desktop\homework\homework01\project\Mathmatics\Mathmatics\bin\Debug\Mathmatics.pdb
+C:\Users\Administrator\Desktop\homework\homework01\project\Mathmatics\Mathmatics\obj\Debug\Mathmatics.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\homework\homework01\project\Mathmatics\Mathmatics\obj\Debug\Mathmatics.Mathmatics.resources
+C:\Users\Administrator\Desktop\homework\homework01\project\Mathmatics\Mathmatics\obj\Debug\Mathmatics.Properties.Resources.resources
+C:\Users\Administrator\Desktop\homework\homework01\project\Mathmatics\Mathmatics\obj\Debug\Mathmatics.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\homework\homework01\project\Mathmatics\Mathmatics\obj\Debug\Mathmatics.exe
+C:\Users\Administrator\Desktop\homework\homework01\project\Mathmatics\Mathmatics\obj\Debug\Mathmatics.pdb
+\\vmware-host\Shared Folders\homework\homework01\project\Mathmatics\Mathmatics\obj\Debug\Mathmatics.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\homework\homework01\project\Mathmatics\Mathmatics\obj\Debug\Mathmatics.Mathmatics.resources
+\\vmware-host\Shared Folders\homework\homework01\project\Mathmatics\Mathmatics\obj\Debug\Mathmatics.Properties.Resources.resources
+\\vmware-host\Shared Folders\homework\homework01\project\Mathmatics\Mathmatics\obj\Debug\Mathmatics.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\homework\homework01\project\Mathmatics\Mathmatics\obj\Debug\Mathmatics.exe
+\\vmware-host\Shared Folders\homework\homework01\project\Mathmatics\Mathmatics\obj\Debug\Mathmatics.pdb

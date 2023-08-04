@@ -1,0 +1,43 @@
+E:\BackupRemoveableHDD\Drive1\2011\2011\PP510\PP510\4 Calculator for If\bin\Debug\Calculate.exe.config
+E:\BackupRemoveableHDD\Drive1\2011\2011\PP510\PP510\4 Calculator for If\obj\Debug\Calculate.exe
+E:\BackupRemoveableHDD\Drive1\2011\2011\PP510\PP510\4 Calculator for If\obj\Debug\Calculate.pdb
+E:\BackupRemoveableHDD\Drive1\2011\2011\PP510\PP510\4 Calculator for If\bin\Debug\Calculate.exe
+E:\BackupRemoveableHDD\Drive1\2011\2011\PP510\PP510\4 Calculator for If\bin\Debug\Calculate.pdb
+E:\BackupRemoveableHDD\Drive1\2011\2011\PP510\PP510\4 Calculator for If\obj\Debug\Calculate.csprojResolveAssemblyReference.cache
+E:\BackupRemoveableHDD\Drive1\2011\2011\PP510\PP510\4 Calculator for If\obj\Debug\Calculate.Form1.resources
+E:\BackupRemoveableHDD\Drive1\2011\2011\PP510\PP510\4 Calculator for If\obj\Debug\Calculate.csproj.GenerateResource.Cache
+E:\UCOL\D101 - Software Development\PP510\PP510\4 Calculator for If\bin\Debug\Calculate.exe.config
+E:\UCOL\D101 - Software Development\PP510\PP510\4 Calculator for If\bin\Debug\Calculate.exe
+E:\UCOL\D101 - Software Development\PP510\PP510\4 Calculator for If\bin\Debug\Calculate.pdb
+E:\UCOL\D101 - Software Development\PP510\PP510\4 Calculator for If\obj\Debug\Calculate.csprojAssemblyReference.cache
+E:\UCOL\D101 - Software Development\PP510\PP510\4 Calculator for If\obj\Debug\Calculate.Form1.resources
+E:\UCOL\D101 - Software Development\PP510\PP510\4 Calculator for If\obj\Debug\Calculate.csproj.GenerateResource.cache
+E:\UCOL\D101 - Software Development\PP510\PP510\4 Calculator for If\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+E:\UCOL\D101 - Software Development\PP510\PP510\4 Calculator for If\obj\Debug\Calculate.exe
+E:\UCOL\D101 - Software Development\PP510\PP510\4 Calculator for If\obj\Debug\Calculate.pdb
+C:\Users\humin\Documents\WelTech\IT5503\2019\Labs\PP510\4 Calculator for If\bin\Debug\Calculate.exe.config
+C:\Users\humin\Documents\WelTech\IT5503\2019\Labs\PP510\4 Calculator for If\bin\Debug\Calculate.exe
+C:\Users\humin\Documents\WelTech\IT5503\2019\Labs\PP510\4 Calculator for If\bin\Debug\Calculate.pdb
+C:\Users\humin\Documents\WelTech\IT5503\2019\Labs\PP510\4 Calculator for If\obj\Debug\Calculate.csprojAssemblyReference.cache
+C:\Users\humin\Documents\WelTech\IT5503\2019\Labs\PP510\4 Calculator for If\obj\Debug\Calculate.Form1.resources
+C:\Users\humin\Documents\WelTech\IT5503\2019\Labs\PP510\4 Calculator for If\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\humin\Documents\WelTech\IT5503\2019\Labs\PP510\4 Calculator for If\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\humin\Documents\WelTech\IT5503\2019\Labs\PP510\4 Calculator for If\obj\Debug\Calculate.exe
+C:\Users\humin\Documents\WelTech\IT5503\2019\Labs\PP510\4 Calculator for If\obj\Debug\Calculate.pdb
+C:\Users\Ada\Desktop\4 Calculator for If\bin\Debug\Calculate.exe.config
+C:\Users\Ada\Desktop\4 Calculator for If\bin\Debug\Calculate.exe
+C:\Users\Ada\Desktop\4 Calculator for If\bin\Debug\Calculate.pdb
+C:\Users\Ada\Desktop\4 Calculator for If\obj\Debug\Calculate.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Desktop\4 Calculator for If\obj\Debug\Calculate.Form1.resources
+C:\Users\Ada\Desktop\4 Calculator for If\obj\Debug\Calculate.csproj.GenerateResource.Cache
+C:\Users\Ada\Desktop\4 Calculator for If\obj\Debug\Calculate.exe
+C:\Users\Ada\Desktop\4 Calculator for If\obj\Debug\Calculate.pdb
+C:\Users\Damon\Desktop\编程计算器\Calculator\bin\Debug\Calculate.exe.config
+C:\Users\Damon\Desktop\编程计算器\Calculator\bin\Debug\Calculate.exe
+C:\Users\Damon\Desktop\编程计算器\Calculator\bin\Debug\Calculate.pdb
+C:\Users\Damon\Desktop\编程计算器\Calculator\obj\Debug\Calculate.csprojAssemblyReference.cache
+C:\Users\Damon\Desktop\编程计算器\Calculator\obj\Debug\Calculate.Form1.resources
+C:\Users\Damon\Desktop\编程计算器\Calculator\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\Damon\Desktop\编程计算器\Calculator\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Damon\Desktop\编程计算器\Calculator\obj\Debug\Calculate.exe
+C:\Users\Damon\Desktop\编程计算器\Calculator\obj\Debug\Calculate.pdb
